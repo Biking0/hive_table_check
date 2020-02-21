@@ -1,0 +1,4 @@
+12M /hive/warehouse/table_name/month_id=202002/day_id=20200216
+12M /hive/warehouse/table_name/month_id=202002/day_id=20200217
+12M /hive/warehouse/table_name/month_id=202002/day_id=20200218
+12M /hive/warehouse/table_name/month_id=202002/day_id=20200219
