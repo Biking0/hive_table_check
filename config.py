@@ -3,6 +3,11 @@
 # by hyn
 # 20200220
 
+# hadoop path
+bdi_hadoop_path = 'hadoop fs -du -s -h /user/hive/warehouse/asiainfo.db/'
+sanqi_hadoop_path = ''
+
+# table  list
 hour_table = [
     ['table_name']
 ]

@@ -17,6 +17,18 @@ month_day = ['01', '02', '03', '04', '05', '06', '07', '10',
 # 10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31]
 
 for i in config.day_table:
+    month_str = datetime.datetime.now().strftime('%Y%m')
+    # day_str
+
+    #hour_str = datetime.datetime.now().strftime('%Y%m%d%H')
+    hour_str = datetime.datetime.now().hour(-2).strftime('%Y%m%d%H')
+
+
+
+    #a=(datetime.datetime.now()-i[1]).hour
+
+    print month_str
+
     print i[0]
     table_name = i[0]
     table_info_sh = hadoop_path + table_name + '/month_id=' + input_data + '/ > table_info.txt'
