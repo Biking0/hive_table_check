@@ -4,9 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 2.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="test" />
     <orderEntry type="module" module-name="tender_spider" />
-    <orderEntry type="module" module-name="test" />
-    <orderEntry type="module" module-name="test" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Twisted Trial" />
