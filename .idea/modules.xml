@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hive_table_check.iml" filepath="$PROJECT_DIR$/.idea/hive_table_check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../env_mysite/mysite/.idea/mysite.iml" filepath="$PROJECT_DIR$/../../env_mysite/mysite/.idea/mysite.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tender_spider/.idea/tender_spider.iml" filepath="$PROJECT_DIR$/../tender_spider/.idea/tender_spider.iml" />
       <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
     </modules>
