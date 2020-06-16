@@ -8,6 +8,8 @@
     <orderEntry type="module" module-name="test" />
     <orderEntry type="module" module-name="tender_spider" />
     <orderEntry type="module" module-name="mysite" />
+    <orderEntry type="module" module-name="hiveToHive" />
+    <orderEntry type="module" module-name="big_data" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Twisted Trial" />

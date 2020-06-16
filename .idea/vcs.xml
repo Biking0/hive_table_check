@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../big_data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../hiveToHive" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../tender_spider" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../test" vcs="Git" />
   </component>
